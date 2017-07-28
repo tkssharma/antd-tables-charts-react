@@ -1,16 +1,17 @@
 # react app  
 
-REST API to support application features
+Application to show charts and responsive table ui 
 
   - React Routing using React-Router
   - Redux forms for validation and data submit
-  - antd designs 
+  - antd designs for chart and table with pagination
 
 # run application using 
 
 npm install
 
 npm run watch
+
 npm run build
 
 npm run start 
